@@ -1,4 +1,4 @@
-# Queue-and-Stack
+# Queue and Stack
 
 > A program that implements the queue and stack data structures with thier respective methods.
 
