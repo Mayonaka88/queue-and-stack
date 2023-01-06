@@ -11,5 +11,3 @@
 > queue.java contains the Queue class and its methods which are enqueue and dequeue.
 
 > stacker.java contains the Stacker class, that represent the stack data structure, and its methods which are push and pop.
-
-> Enjoy :)
